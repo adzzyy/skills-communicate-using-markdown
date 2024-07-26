@@ -2,4 +2,6 @@
 ## This is the second biggest
 #### This is the fourth biggest
 ###### This is the sixth, and the smallest
-Describe changes at the bottom here? I only made a few headers to see how they look
+
+![Image of Yaktocat, let's see if we can see it](https://octodex.github.com/images/yaktocat.png)
+
