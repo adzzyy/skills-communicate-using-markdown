@@ -3,6 +3,11 @@
 #### This is the fourth biggest
 ###### This is the sixth, and the smallest
 
+Let's add a task list: 
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 Let's add some python code
 
 ``` python
